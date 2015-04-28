@@ -1,0 +1,6 @@
+<add name="ApplicationServices" connectionString="data source=.\SQLEXPRESS;Persist Security Info=True;User ID=sa2;Password=sa1234;AttachDBFilename=|DataDirectory|aspnetdb.mdf;User Instance=true"
+      providerName="System.Data.SqlClient" />
+
+aaaa
+bbbb
+cccc
